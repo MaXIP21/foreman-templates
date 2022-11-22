@@ -1,0 +1,2 @@
+# foreman-templates
+Foreman templates
